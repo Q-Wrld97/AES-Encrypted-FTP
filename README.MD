@@ -10,10 +10,10 @@ pip install pycryptodome
 
 ## Usage
 
-1. Clone this repository or copy the `secure_ftp_aes.py` script to your local machine.
+1. Clone this repository or copy the `EncryptedFTP.py` script to your local machine.
 2. Run the script:
 
-python secure_ftp_aes.py
+python EncryptedFTP.py
 
 The script will prompt you for the FTP server address, username, and password, as well as the local and remote file paths for both uploading and downloading files.
 
